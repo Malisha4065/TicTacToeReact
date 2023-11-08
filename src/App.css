@@ -43,6 +43,8 @@
 
 #game-container {
   background-color: #09BC8A;
+  width: auto;
+  height: 200px;
 }
 
 #players {
@@ -52,9 +54,13 @@
 }
 
 .player-name {
-  margin: 10px;
+  margin: 5rem;
 }
 
 .player-symbol {
-  margin: 10px;
+  margin: 1rem;
+}
+
+.player {
+  margin: 2rem;
 }
